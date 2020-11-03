@@ -1,0 +1,8 @@
+# Command to create resource group - New-AzResourceGroup
+# Command to create virtual network - New-AzVirtualNetwork
+# Command to create public IP - New-AzPublicIpAddress
+# Command to create Network interface card - New-AzNetworkInterface
+# Command to create virtual machine - New-AzVM
+# Command to create virtual network peering - Add-AzVirtualNetworkPeering 
+# Command to create Storage account - New-AzStorageAccount
+# Command to create new Disk - New-AzDisk
